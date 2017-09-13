@@ -1,2 +1,2 @@
 # hello-world
-This is test repos.
+This is test repository created to understand github.
